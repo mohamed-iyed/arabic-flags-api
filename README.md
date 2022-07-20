@@ -1,4 +1,4 @@
-# arabic-flags-api
+# world-flags-in-arabic-api
 
 ## how to use
 ### send request to:
